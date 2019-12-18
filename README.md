@@ -1,8 +1,8 @@
-# Folder structure
-├── Data             # Data in the format of .csv files
-├── Notebooks        # Notebooks to execute on Jupyter notebook
-├── Reports          # Result images of graphs from execution
-└── README.md
+# Folder structure</br>
+├── Data             # Data in the format of .csv files</br>
+├── Notebooks        # Notebooks to execute on Jupyter notebook</br>
+├── Reports          # Result images of graphs from execution</br>
+└── README.md</br>
 
 
 # Data_Science_D_st_eams_of_Anomalies
